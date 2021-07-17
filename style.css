@@ -1,0 +1,38 @@
+img{
+    width:150px;
+    height:120px;
+}
+h1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.s1{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+}
+.s2{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+}
+.s3{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+}
+body{
+    background-color: black;
+    color: black; 
+}
+hr{
+    margin-left: 30px;
+    width: 300px;
+    color: black;
+}
